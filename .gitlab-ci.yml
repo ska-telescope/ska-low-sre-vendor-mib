@@ -1,0 +1,5 @@
+will_pass:
+  stage: test
+  script:
+    - echo "This job will pass"
+
